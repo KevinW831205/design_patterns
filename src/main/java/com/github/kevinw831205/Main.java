@@ -1,8 +1,6 @@
 package com.github.kevinw831205;
 
-import com.github.kevinw831205.creational.builder.EmployeeBuilder;
-import com.github.kevinw831205.creational.builder.HtmlBuilder;
-import com.github.kevinw831205.creational.builder.Person;
+import com.github.kevinw831205.creational.builder.*;
 
 public class Main {
 
@@ -18,5 +16,19 @@ public class Main {
                 .withName("x")
                 .worksAt("d")
                 .build();
+
+
+        ComplexPersonBuilder cpb = new ComplexPersonBuilder();
+        ComplexPerson cp = cpb
+                .lives()
+                    .address("street")
+                    .city("d")
+                    .postcode("1")
+                .works()
+                    .worksAt("c")
+                    .position("d")
+                .build();
+
+        System.out.println(cp);
     }
 }
