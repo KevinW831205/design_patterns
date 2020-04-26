@@ -5,7 +5,7 @@ public class JavaBuilders {
         String hello = "Hello";
         System.out.println("<p>" + hello + "</p>");
         String[] words = {"hello", "world"};
-        System.out.println("<ul>" + ".....");
+//        System.out.println("<ul>" + ".....");
 
         StringBuilder sb = new StringBuilder();
         sb.append("<ul>\n");
@@ -14,7 +14,6 @@ public class JavaBuilders {
         }
         sb.append("</ul>");
         System.out.println(sb.toString());
-
     }
 
 }
