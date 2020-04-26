@@ -24,7 +24,7 @@ public class HtmlElement {
         String i = String.join("", Collections.nCopies(indent * indentSize, " "));
         sb.append(String.format("%s<%s>%s", i, name, newLine));
         if (text != null && !text.isEmpty()) {
-            sb.append(String.join("", Collections.nCopies(indentSize * (indent + 1), "")))
+            sb.append(String.join("", Collections.nCopies(indentSize * (indent + 1), " ")))
                     .append(text)
                     .append(newLine);
         }
@@ -40,6 +40,7 @@ public class HtmlElement {
 
     @Override
     public String toString() {
+        return toStringImpl(0);
     }
 
     public String getName() {
