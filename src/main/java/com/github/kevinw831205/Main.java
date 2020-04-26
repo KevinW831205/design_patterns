@@ -6,8 +6,9 @@ public class Main {
 
     public static void main(String[] args) {
         HtmlBuilder hb = new HtmlBuilder("ul");
-        hb.addChild("li","hello");
-        hb.addChild("li","world");
+        hb.addChild("li","hello")
+            .addChild("li","world");
+//        hb.addChild("li","world");
         System.out.println(hb.toString());
     }
 }
