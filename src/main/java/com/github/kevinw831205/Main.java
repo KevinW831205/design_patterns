@@ -1,6 +1,7 @@
 package com.github.kevinw831205;
 
 import com.github.kevinw831205.creational.builder.*;
+import com.github.kevinw831205.creational.factory.Point;
 
 public class Main {
 
@@ -30,5 +31,11 @@ public class Main {
                 .build();
 
         System.out.println(cp);
+
+        CodeBuilder cb = new CodeBuilder("Person").addField("name","String").addField("age","int");
+        System.out.println(cb.toString());
+
+
+        Point point = new Point.Factory.newCartesianPoint(0,0);
     }
 }
