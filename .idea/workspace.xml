@@ -3,8 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="94c8fa5a-c800-45fd-ac42-bad9d8e14d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/creational/prototype/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/creational/prototype/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/creational/prototype/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/creational/prototype/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,37 +103,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1587997384760">
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588002010202">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1587997384760" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1587997520901">
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588002010202" />
+    <state x="714" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588001979936">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1587997520901" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1587997520901">
+    <state x="714" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588001979936" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588002228358">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1587997520901" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1587997520901">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588002228358" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588002228357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1587997520901" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1587997520901">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588002228357" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588002228357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587997520901" />
-    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1587953152146">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588002228357" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588002228357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587953152146" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588002228357" />
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1588002163208">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="176" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588002163208" />
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1587936327020">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="656" y="345" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1587936327020" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587953568808">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587997785833">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587953568808" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587997785833" />
   </component>
 </project>
