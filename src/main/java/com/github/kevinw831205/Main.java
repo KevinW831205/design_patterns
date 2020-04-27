@@ -1,8 +1,5 @@
 package com.github.kevinw831205;
 
-import com.github.kevinw831205.creational.factory.HotDrink;
-import com.github.kevinw831205.creational.factory.HotDrinkMachine;
-
 public class Main {
     //builders
 //    public static void main(String[] args) {
@@ -40,10 +37,16 @@ public class Main {
 
 
     //factories
-    public static void main(String[] args) throws Exception {
-//        Point point = Point.Factory.newCartesianPoint(3,4);
+//    public static void main(String[] args) throws Exception {
+////        Point point = Point.Factory.newCartesianPoint(3,4);
+//
+////        HotDrinkMachine machine = new HotDrinkMachine();
+////        HotDrink drink = machine.makeDrink();
+//
+//        PersonFactory pf = new PersonFactory();
+//        Person p1 = pf.createPerson("p1");
+//        System.out.println(p1.id);
+//    }
 
-        HotDrinkMachine machine = new HotDrinkMachine();
-        HotDrink drink = machine.makeDrink();
-    }
+
 }
