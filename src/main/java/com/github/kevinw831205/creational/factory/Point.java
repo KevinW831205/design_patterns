@@ -27,5 +27,6 @@ public class Point {
         public static Point newPolarPoint(double rho, double theta){
             return new Point(rho*Math.cos(theta), rho*Math.sin(theta));
         }
+
     }
 }
