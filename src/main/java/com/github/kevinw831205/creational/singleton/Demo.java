@@ -48,16 +48,26 @@ public class Demo {
 //        System.out.println(singleton.getI());
 //        System.out.println(singleton2.getI());
 
-        String filename = "myfile.bin";
 
-        // not really serialized because of constructor
-        EnumSingleton singleton = EnumSingleton.INSTANCE;
-//        singleton.setValue(111);
-//        saveToFile(singleton,filename);
-//        System.out.println(singleton.getValue());
 
-        EnumSingleton singleton2 = readEnumFromFile(filename);
-        System.out.println(singleton2.getValue());
+
+//        String filename = "myfile.bin";
+//
+//        // not really serialized because of constructor
+//        EnumSingleton singleton = EnumSingleton.INSTANCE;
+////        singleton.setValue(111);
+////        saveToFile(singleton,filename);
+////        System.out.println(singleton.getValue());
+//
+//        EnumSingleton singleton2 = readEnumFromFile(filename);
+//        System.out.println(singleton2.getValue());
+
+        ChiefExecutiveOfficer ceo = new ChiefExecutiveOfficer();
+        ceo.setName("1");
+        ceo.setAge(2);
+
+        ChiefExecutiveOfficer ceo2 = new ChiefExecutiveOfficer();
+        System.out.println(ceo2);
 
 
     }
