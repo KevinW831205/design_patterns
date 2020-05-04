@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94c8fa5a-c800-45fd-ac42-bad9d8e14d1f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/VectorObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/VectorRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/adapter/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/TestSingletonTester.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/TestSingletonTester.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +41,20 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="JUnit.TestSingletonTester">
+  <component name="RunManager" selected="Application.Demo (1)">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.structural.adapter.Demo" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kevinw831205.structural.adapter.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.creational.prototype.Demo" />
       <module name="design_patterns" />
@@ -108,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="JUnit.TestSingletonTester" />
         <item itemvalue="Application.Multiton" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -134,30 +144,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588604919558" />
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588606906377">
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588607369271">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588606906377" />
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588607369271" />
     <state x="714" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588606251406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="714" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588606251406" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588606449643">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588612211136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588606449643" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588606449643">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588612211136" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588612211136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588606449643" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588606449642">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588612211136" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588612211136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588606449642" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588606449643">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588612211136" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588612211136">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588606449643" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588612211136" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588606416027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -186,9 +196,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="216" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588385739517" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1587997785833">
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588611798662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1587997785833" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588611798662" />
   </component>
 </project>

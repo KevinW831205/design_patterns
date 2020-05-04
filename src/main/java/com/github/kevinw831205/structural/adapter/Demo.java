@@ -15,7 +15,16 @@ public class Demo {
         System.out.println(".");
     }
 
-    public static void main(String[] args) {
+    private static void draw(){
+        for (VectorObject vo : vectorObjects){
+            for (Line line : vo){
+                LineToPointAdapter adapter = new LineToPointAdapter(line);
+                adapter.forEach(Demo::drawPoint);
+            }
+        }
+    }
 
+    public static void main(String[] args) {
+        draw();
     }
 }
