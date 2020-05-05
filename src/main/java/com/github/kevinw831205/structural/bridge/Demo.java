@@ -6,6 +6,7 @@ public class Demo {
         RasterRenderer rasterRenderer = new RasterRenderer();
         VectorRenderer vectorRenderer = new VectorRenderer();
 
+        // replace with dependency injection
         Circle circle = new Circle(vectorRenderer, 5);
         circle.draw();
         circle.resize(2);
