@@ -3,7 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="94c8fa5a-c800-45fd-ac42-bad9d8e14d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/Demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/Demo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/RasterSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/Triangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/bridge/practice/VectorSquare.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/bridge/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/bridge/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/bridge/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/bridge/Demo.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,26 +46,13 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
-  <component name="RunManager" selected="Application.Demo (1)">
+  <component name="RunManager" selected="JUnit.BridgeTest">
     <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.structural.bridge.Demo" />
       <module name="design_patterns" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.github.kevinw831205.structural.bridge.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.creational.prototype.Demo" />
-      <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.kevinw831205.creational.prototype.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,6 +112,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BridgeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="design_patterns" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BridgeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestSingletonTester" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="design_patterns" />
       <option name="PACKAGE_NAME" value="" />
@@ -130,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BridgeTest" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.Demo (1)" />
         <item itemvalue="JUnit.TestSingletonTester" />
         <item itemvalue="Application.Multiton" />
-        <item itemvalue="Application.Demo (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -156,30 +158,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588604919558" />
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588647811792">
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588648838865">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588647811792" />
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588648838865" />
     <state x="714" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1588606251406">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="714" y="52" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588606251406" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588647935456">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588648912655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588647935456" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588647935456">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588648912655" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588648912655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588647935456" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588647935456">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588648912655" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588648912655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588647935456" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588647935456">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588648912655" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588648912655">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588647935456" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588648912655" />
     <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588606416027">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -208,6 +210,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="342" y="216" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1588385739517" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1588648441322">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1588648441322" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588611798662">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
