@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="94c8fa5a-c800-45fd-ac42-bad9d8e14d1f" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/dynamicDecorator/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/ColoredShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/dynamicDecorator/ColoredShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/dynamicDecorator/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/ShapeDecoratorDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/dynamicDecorator/ShapeDecoratorDemo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/dynamicDecorator/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/TransparentShape.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/github/kevinw831205/structural/decorator/dynamicDecorator/TransparentShape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/decorator/Circle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/decorator/ColoredShape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/decorator/Shape.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/decorator/ShapeDecoratorDemo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/decorator/Square.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/github/kevinw831205/structural/decorator/TransparentShape.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +45,20 @@
       <recent name="D:\github-repo\design_patterns\src\main\java\com\github\kevinw831205\structural\decorator\staticDecorator" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ShapeDecoratorDemo (1)">
+  <component name="RunManager" selected="Application.Demo (1)">
+    <configuration name="Demo (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.structural.decorator.adapterDecorator.Demo" />
+      <module name="design_patterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.github.kevinw831205.structural.decorator.adapterDecorator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.structural.composite.practice.Demo" />
       <module name="design_patterns" />
@@ -77,19 +78,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.github.kevinw831205.creational.singleton.Multiton.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.github.kevinw831205.structural.composite.Demo" />
-      <module name="design_patterns" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.github.kevinw831205.structural.composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo (1)" />
         <item itemvalue="Application.ShapeDecoratorDemo (1)" />
         <item itemvalue="Application.ShapeDecoratorDemo" />
         <item itemvalue="Application.StringDecoratorDemo" />
         <item itemvalue="Application.Demo (2)" />
-        <item itemvalue="Application.Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -177,10 +165,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="718" y="324" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588604919558" />
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588906480003">
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser" timestamp="1588907213636">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588906480003" />
+    <state x="765" y="237" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588907213636" />
     <state x="590" y="446" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588905448791">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -193,38 +181,38 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="268" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588734946079" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1588907011889">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588907011889" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1588907011888">
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588907011888" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1588907011888">
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1588907972108">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588907011888" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1588907011889">
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972108" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588907011889" />
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588606416027">
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588606416027" />
-    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588606416027">
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588606416027" />
-    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588606416027">
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588606416027" />
-    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588606416027">
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1588907972109">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588606416027" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588907972109" />
     <state x="490" y="176" key="Maven.ArtifactSearchDialog" timestamp="1588002163208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
