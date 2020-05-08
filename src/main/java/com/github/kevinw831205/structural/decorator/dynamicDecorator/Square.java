@@ -1,4 +1,4 @@
-package com.github.kevinw831205.structural.decorator;
+package com.github.kevinw831205.structural.decorator.dynamicDecorator;
 
 public class Square implements Shape {
 
